@@ -35,10 +35,11 @@ uses
   , response_key
   , trial_abstract
   //, countermanager
-  //, session_config
+  //, config_session
   , counter
   , constants
-  , interface_library
+  , interface_rs232
+  , interface_plp
   ;
 
 type
